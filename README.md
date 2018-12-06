@@ -10,4 +10,6 @@ Follow on projects will include:
 
 I'll aim to document in a comprehensive, clear fashion such that my project is repeatable for others.
 
+With thanks to @jessicamleee :
+https://medium.com/@jessicamleee/a-guide-to-learning-artificial-intelligence-in-two-weeks-1057882ccb1c
 
